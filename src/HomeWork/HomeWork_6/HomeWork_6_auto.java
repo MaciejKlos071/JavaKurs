@@ -1,4 +1,4 @@
-package HomeWork;
+package HomeWork.HomeWork_6;
 
 public class HomeWork_6_auto {
     public String marka;

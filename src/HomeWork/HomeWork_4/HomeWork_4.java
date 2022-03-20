@@ -1,4 +1,4 @@
-package HomeWork;
+package HomeWork.HomeWork_4;
 /*
 Stwórz 3 obiekty klasy student. przypisz wartosci do pol. stwórz tablice i dodaj studentow do tablicy.
 przejdz przez stuidentow w tablicy i wywolaj wszystkie 4 metody.

@@ -1,4 +1,4 @@
-package HomeWork;
+package HomeWork.HomeWork_4;
 
 public class HomeWork_4_Student {
     public String imie;
