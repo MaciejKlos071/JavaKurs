@@ -1,0 +1,4 @@
+Stwórz interface WebDriver, który bedzie miał dwie metody
+ get i findElementBy
+Dodaj dwie JavaPodstawy.klasy ChromeDriver i Firefoxdriver ktore beda implementowaly
+ ten interfejs

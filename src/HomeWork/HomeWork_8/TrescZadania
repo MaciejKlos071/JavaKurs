@@ -1,4 +1,0 @@
-Stwórz interface WebDriver, który bedzie miał dwie metody
- get i findElementBy
-Dodaj dwie klasy ChromeDriver i Firefoxdriver ktore beda implementowaly
- ten interfejs
