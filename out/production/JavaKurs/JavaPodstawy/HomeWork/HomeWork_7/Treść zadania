@@ -1,0 +1,9 @@
+/*
+1.stwórz klase bazowa App - zawiera
+pole: name
+metode: appInfo
+Posiada konstruktor do którego przekazesz waertosc name
+______________________________________________________
+2. stwórz klase potomne androisApp i IphoneApp
+- Zawiera metode runAndtroidApp / run runIphoneApp
+ */
