@@ -12,7 +12,7 @@ public class Auto {
 
     }
     public void hamuj(){
-        System.out.println("chamuj");
+        System.out.println("hamuj");
     }
     public void info(){
         System.out.println("Marka: "+ marka);
