@@ -39,6 +39,9 @@ public class StudentTest {
             System.out.println();
         }
         String uczelnia = Student.nazwaUczelni;
+
+        Student.infoUczelnia();
+
     }
 
 
