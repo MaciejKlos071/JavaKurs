@@ -6,6 +6,7 @@ public class Student {
     public String nick;
     public String eMail;
     public int indeks;
+    public static String nazwaUczelni = "WSB";
 
     public void przedstawSie(){
         System.out.println("Nazywam się: "+ imie + " " + nazwisko );

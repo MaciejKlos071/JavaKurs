@@ -38,6 +38,7 @@ public class StudentTest {
             listaStudentów[i].podajNumerIndeksu();
             System.out.println();
         }
+        String uczelnia = Student.nazwaUczelni;
     }
 
 
