@@ -7,7 +7,7 @@ public class PersonTest {
         teacher.eat();
         teacher.teachingMath();
         teacher.sayHello();
-
+        System.out.println();
         Footballer footballer = new Footballer("FCB", 22, "FCB");
         footballer.walk();
         footballer.eat();

@@ -12,5 +12,8 @@ public class Footballer extends Person{
         eat();
         System.out.println("I'm playing football" + footballClub);
     }
+    public void eat(){
+        System.out.println("Lubie zdrowe jedzenie");
+    }
 
 }
